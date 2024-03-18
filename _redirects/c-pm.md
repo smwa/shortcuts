@@ -1,0 +1,3 @@
+---
+redirect: https://pmoutdoorstructures.com/
+---
