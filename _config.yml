@@ -67,4 +67,4 @@ defaults:
 collections:
   redirects:
     output: true
-    permalink: /:path/
+    permalink: /:path
